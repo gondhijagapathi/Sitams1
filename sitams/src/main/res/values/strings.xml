@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" translatable="false">Sitams</string>
+    <string name="title_activity_main" translatable="false" tools:ignore="UnusedResources,MissingTranslation">Sitams</string>
+    <string name="refresh">Refresh</string>
+
+
+    <string name="title_activity_bus">"Bus Facility "</string>
+    <string name="aboutsitams">Approved by A.I.C.T.E-New Delhi\nAccredited by NBA and NAAC \nCOUNSELLING CODE:-<b>SSCC</b> \n\nSITAMS is located in the outskirts of Chittoor Town with<b> 48.81 acres</b> of Land and it has built-up area of 28174.38 sqm \n
+\n<b>THE CAMPUS INCLUDES</b>\n\n
+ 1.Academic Block with 60 class rooms.\n  2.Mechanical and Civil Block.\n  3.Administrative Block.\n  4.Computer Block with 700 computers.\n  5.Library Block with 57000 Volumes.\n  6.Hostel Blocks(separate Boys &#38; Girls).\n  7.Staff Quartes.\n  8.Guest House.\n  9.Sports Complex.\n10.Indoor Auditorium.\n11.Canteen.\n12.Committee Hall.\n13.Conference HAll.\n14.e-Class rooms.\n15.Placement cell.\n16.Language Lab.\n17.Internet Lab.\n18.Helipad.\n19.5G wifi\n\n\n
+
+
+<b>VISION</b>\n\nOur vision is to mould the students to be well informed and motivate them to develop the necessary values and skills to meet the challenges of the modern world.\n
+\n<b>MISSION</b><hr />\n\n
+   Provide a congenial academic ambience.
+   Inculcate confidence to face and experience
+     new challenges.
+   Unleash and encourage the innate potential of
+     the students.
+   Ignite the students to acquire self-reliance
+     in the state - of - the–art technologies.
+   Foster an enterprising spirit among students.\n\n<b>Contact Us</b>\nOffice : 08572&#8211;246298, 246299</string>
+
+    <string name="place">A placement cell is established in this institution and it is taking active role in campus
+placements. Our students got campus placements in companies like M/s Syntel (India) Limited, Kyoeera Wireless Corporation (KWC, USA), Infosys, Wipro, TCS, VIRTUSSA, Tata Info, Samsung, Robert Bosch, DRDP, Accenture, MBT, Oracle, CTS, IBM, Getsalt Technologies, Goldstone
+Technologies, Godavari Paper Mills, M/s Sujala Pipes (P) Ltd., Nutrine Confectionery Company (P) Ltd., etc. through campus placements and placement assistance.
+Institutional Tie Ups\n\nSitams entered into Memorandum of Understanding (MOU) with M/s Same Deutz Fahr India (P) Ltd., Ranipet, Tamilnadu and Step Online (P) Ltd., Bangalore for regular Institute-Industry
+interface to meet the purposes of consultancy, training, industrial visits, project works, placement services, etc. we are also planning to enter into MOU with MAFOI and SAN (V) Technologies in due course.
+Industry -Institute Interaction Cell\n\nThe main objective of the Industry-Institute Interaction Cell is to maintain continuous interaction with industry by exchanging the managerial and technical information. This helps the institute to understand the changing profile of industry so that suitable training can be provided to the students according to the requirements of managerial and technical jobs. The cell provides for training programmes, workshops, industrial visits, placement assistance, etc. to the students.
+Opportunities for Further Studies Abroad\n\nSITAMS has collaboration with Technical University, Vienna, Austria. Under the program, two of our students were selected during 2004-05 for higher studies (MS Programme) at Technical University, Vienna, Austria. All the expenses necessary for travel, course studies and living in Austria etc. are borne by the University. Process is on for selecting next batch of students for the MS program at University of Vienna, Austria.
+</string>
+    <string name="title_activity_aboutdetail">About detail</string>
+    <string name="chairman"><b>FOUNDER</b>\n\nSreenivasa Institute of Technology and Management Studies (SITAMS) was established in the year 1998&#8211;1999 under the Sreenivasa Trust.The founder Chairman of the trust is <b>Late Dr.D.K.Audikesavulu</b>, Former Chairman of Tirumala Tirupati Devastanams. He is a Mechanical Engineer by profession and also a prominent industrialist having industrial establishments in the states of Andhra Pradesh ,Karnataka, Tamil Nadu and Madhya Pradesh.</string>
+    <string name="chairman1"><b>CHAIRPERSON</b>\n\n<b>Smt.D.A.Sathya Prabha</b>, M.L.A.,Chittoor (W/o Late Sri.D.K. Audikesavulu, Ex.M.P.,Loksabha), is the present Managing Trustee, Srinivasa Trust and the Chairperson of the Sreenivasa Institute of Technology and Management Studies (SITAMS). Smt. Sathya Prabha, as a Member of the Srinivasa Trust is actively involved in all Trust activities along with her husband.</string>
+    <string name="trust">Sreenivasa Institute of Technology and Management Studies (SITAMS) was founded during the academic year 1998-99 in line with the aims and aspirations of Sreenivasa Trust.\n
+To provide relief to the poor and needy at the time of natural calamities and normal times.\n
+To spread education at all levels starting from the primary education right up to University level.\n
+To provide medical relief particularly to the needy in the village by way of sending regularly medical and health care staff with free medicines.
+Advancement of any object of general public utility.\n
+The Trust was founded by Late Sri Dr.D.K.Audikesavulu and his wife Smt.Sathya Prabha.      Late Sri Dr.D.K.AUDIKESAVULU is a Mechanical Engineer by profession and is a prominent industrialist having establishment in the States of Karnataka, Tamilnadu, Andhra Pradesh and Madhya Pradesh.\n
+The major establishments in which he has interest are :\n
+Karnataka Breweries  Distilleries Pvt. Ltd., Bangalore.\n
+Chaitanya Properties Ltd., Bangalore.\n
+Sapthagiri Enterprises, Bangalore and Chittoor.\n
+Sri Vani Sugars and Industries, Chittoor District.\n
+Sri Simhadri and Bannur Sugars, Vizag and Mysore District.\n
+Tiruchy Steel Roll Mills Ltd., Trichy.\n
+Sreenivasa Distilleries and Sri Krishna Enterprises, Chittoor.\n
+Mallya Hospital, Bangalore.\n
+Hassan 200MW Power Project.\n
+Above all, Late. Sri Dr.D.K.Audikesavulu is a well-known philanthropist having created a number of charitable institutions.
+
+A few of them are :\n
+Two gigantic Kalyanamandapams in Bangalore city, which have been constructed and handed over to Sri Raja Rajeswari Temple Trust of Bangalore. He has constructed a very spacious dining hall for pilgrims at Sringeri Mutt. Construction of another Kalyanamandapam is at the outskirts of Chittoor Town on the National Highway between Chennai and Bangalore. He has constructed a number of guest houses for the benefit of the pilgrims at Tirumala, Sabarimalai, Puttaparti and handed over the same to the respective temple managements.
+Sreenivasa Trust is running a secondary school providing free education for the poor and needy children of rural areas.\n
+
+Sreenivasa Trust has of late undertaken a gigantic drinking water supply project in the name of SATYA SAI DRINKING WATER SUPPLY costing about Rs.33.4crores of which his personal
+contribution being Rs.13crores, the remaining being borne by the State Government. \n
+
+This schemes envisaged to provide the complete infrastructure for drinking water supply in about
+1100 village of Chittoor District.\n
+
+Late Sri D.K.AUDIKESAVULU has a franchise for establishing “World Trade Centre” at Bangalore and Hyderabad.</string>
+    <string name="princpal">Dr. P. Ramesh Kumar obtained his B.E. (Mechanical Engg.) from Andhra University, Vishakapatnam during 1991. He did his M.E. in Thermal Power Engineering from Annamalai University, Annamalai Nagar during 1993 and obtained his Ph.D from  S.V.University, Tirupati during 2008.
+\nHe is having more than 22 years of Teaching experience in different Engineering Colleges at various levels and 9 years as Principal.
+\nHe published 10 papers at National and International level journals and Conferences. He is a life member in Indian Society for Technical Education and Fellow of Institute of Engineers (India). He also served as a member, Board of studies of Mechanical Engineering for Yogi Vemana University, Kadapa and Doctoral Committee Member for Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, Kanchipuram, Tamil Nadu
+</string>
+    <string name="csehodtext"><b>CSE HOD</b>  Y.Sreeraman M.E \n<b>EMAIL ID:-</b> sramany@gmail.com</string>
+    <string name="ecehodtext"><b>ECE HOD</b>  Mr.R.M.Sulthani., M.Tech\n<b>EMAIL ID:-</b> rmsulthan@yahoo.co.in </string>
+    <string name="eeehodtext"><b>EEE HOD</b>  RAMESH R.Halakurki M.Tech \n<b>EMAIL ID:-</b> halakurki@gmail.com </string>
+    <string name="mechhodtext"><b>MECH HOD</b>  Dr.S.Rajesh M.E,Ph.D \n<b>EMAIL ID:-</b> rajesh7581@gmail.com </string>
+    <string name="civilhodtext"><b>CIVIL HOD</b>   M.Satish Reddy M.Tech \n<b>EMAIL ID:-</b> reddy.msr4u@gmail.com</string>
+    <string name="mbahodtext"><b>MBA HOD</b>  Dr.G Malyadri MBA,PH.D \n<b>EMAIL ID:-</b> drgmalyadri.10@gmail.com</string>
+    <string name="mcahodtext"><b>MCA HOD</b>  ME.Palanivel M.sc , M.phil, M.E , Ph.D \n<b>EMAIL ID:-</b> palanivelme@gmail.com </string>
+    <string name="hastext"><b>SCIENCE AND HUMANITIES HOD</b>  \nDr.H.Umamahesvari M.SC,M.phil,Ph.D \n<b>EMAIL ID:-</b> umamaheswarihema @gmail.com </string>
+    <string name="faculty"><b>Faculty</b></string>
+    <string name="abouttext">This project was developed for sitams students to get Notifications,attendance and results \n\n Thanks to \n\n SITAMS institution\n\n<b>Supportive and Maintained by</b>\n Computer Center\n BY \n\n     CSE ROCKERS(2012&#8211;2016)</string>
+    <string name="govbutname">Governing Counsil</string>
+    <string name="princebutname">Principal</string>
+    <string name="trustbutname">Our Trust</string>
+    <string name="chairbutname">Chair Person</string>
+    <string name="founderbutname">Founder</string>
+    <string name="clggrade">(A Grade By APSCHE)</string>
+    <string name="govtext">[1]  <b>Dr.A.Kuppurajulu,M.E.,Ph.D</b>\nVice-chairman,SITAMS.\n
+      FormerProfessor of Electrical Engineering and Dean of Academic Courses,IIT Madras.\n
+      In addition to working in IIT,Madras,he had wide experience in teaching,research and consultancy in the U.S.A(University of Washington),Germany(University of Erlangen-Nurenberg and siemens Research Establishment) and Russia(Moscow Power Institute).\n\n
+
+[2]  <b>Sri.K.Ranganatham,B.E.,F.I.E.,C.Engg.,</b>\n
+      Executive Vice chairman,SITAMS.\n
+      He is the former chairman and Managing Director of Andrapradesh southern power Distribution Company Limited,A.P\n\n
+
+[3]  <b>Sri.G.Ramachandraiah, B.E(Mech.)</b>\n
+      Member of Governing council SITAMS\n
+      Sri. G.Ramachandraiah is the former Chief Engineer in Wadighan Project(Libya).\n\n
+
+[4]  <b>Sri.D.K. Badrinarayana, B.Sc.,P.G.Dip.in Law,M.A</b>\n
+       Member of Governing council SITAMS\n
+       Sri. D.K. Badrinarayana is an industrialist and philanthropist.
+
+</string>
+    <string name="logout">Logout</string>
+    <string name="boyshostel">Boys Hostel</string>
+    <string name="girlshostel">Girls Hostel</string>
+    <string name="boyshtext">\n1. The boys hostel is within the campus \n( 66 rooms ) to accommodate about 200 students with three residential wardens.\n 2. Sports, Internet, Reading Room, T.V etc. are available\n</string>
+    <string name="girlshtext">\nThree state of the art girls hostels within the campus \n(120 rooms) to accommodate about 300 students with three residential wardens \n Facilities available are Sports, Internet, Reading Room, T.V etc.\n</string>
+    <string name="Aobuttext">Administrative Staff</string>
+    <string name="aostafftext"><b>For Admissions and Other information Contact</b>\n\n
+<b>Assistant Administrative Officer:</b> Mr.K.Mohan Babu, Cell: 9490905629, 08572&#8211;246296, 246299</string>
+    <string name="placeoff"><b>PLACEMENT OFFICER</b>
+\n Y. Ravikiran Varma\n Contact: 9849106616\n Email: ctpo@sitams.org</string>
+    <string name="trans"><b> Contact Details:</b>\n
+<b>Transport Incharge </b>:\n Mr. M.S. Kamala Kannan [ 9440416620 ]\n
+</string>
+    <string name="title_activity_holidays">Holidays</string>
+    <string name="title_activity_aboutus2">About us</string>
+    <string name="ourcourse">Our Courses</string>
+    <string name="title_activity_placements">Placements</string>
+
+    <string name="title_activity_mainnav">Sitams</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

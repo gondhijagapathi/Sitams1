@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "249298584363",
+    "firebase_url": "https://sitams-1250.firebaseio.com",
+    "project_id": "sitams-1250",
+    "storage_bucket": "sitams-1250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249298584363:android:caf0a82b77d78504",
+        "android_client_info": {
+          "package_name": "com.jaggu.sitams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249298584363-v8btbk31ljhj384n9fklrbvjpesl10ui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaggu.sitams",
+            "certificate_hash": "DD357CE8D753E436DE2D44889C5A99E61513BDBD"
+          }
+        },
+        {
+          "client_id": "249298584363-2476p05njbp2adifbc90p95ccf02ho8a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "249298584363-3u15um8ln6bmttv25armn3s86ksoug3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILCY2WYhBLzbUAN9djTEKuZCrvHLNFbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

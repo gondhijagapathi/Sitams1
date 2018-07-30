@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.jaggu.sitams.Attend2">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:id="@+id/topcard"
+        android:visibility="gone"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/error"
+            android:textColor="@color/red"
+            android:textSize="20sp"
+            android:layout_gravity="center_horizontal"/>
+    </android.support.v7.widget.CardView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/attendtext"
+        android:layout_below="@+id/topcard"
+        android:layout_marginBottom="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        />
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/attcard"
+        android:layout_below="@+id/attendtext">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:text="Class Attended"/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:id="@+id/catt"
+               android:layout_marginTop="10dp"
+               android:textSize="40sp"
+               android:layout_alignParentLeft="true"
+               android:text="00" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="Class Held"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="00"
+                android:layout_marginTop="10dp"
+                android:textSize="40sp"
+                android:id="@+id/cheld"/>
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/attcard"
+        android:id="@+id/attcard1"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/cumtext"
+                android:layout_alignParentTop="true"
+                android:text="Cumulative Percentage"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/cumtext"
+                android:id="@+id/cumdtext"
+                android:text="00"
+                android:maxLength="7"
+                android:textSize="40sp"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/attcard1"
+        android:id="@+id/mg"
+        android:layout_marginTop="10dp"
+        android:text="Monthly Graph"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/mg"
+        android:id="@+id/atv"
+        android:background="@color/cardview_dark_background"/>
+    <com.github.mikephil.charting.charts.BarChart
+        android:layout_width="match_parent"
+        android:id="@+id/barchart"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/atv"
+        android:layout_height="250dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/barchart"
+        android:id="@+id/heldattend"
+        android:text="Classes Held And Attended"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/heldattend"
+        android:id="@+id/atv2"
+        android:background="@color/cardview_dark_background"/>
+    <com.github.mikephil.charting.charts.HorizontalBarChart
+        android:layout_width="match_parent"
+        android:id="@+id/combarchart"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/atv2"
+        android:layout_height="500dp"/>
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        app:cardElevation="5dp"
+        app:cardCornerRadius="4dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/ndate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="sample date"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/red"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/ntitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="4dp"
+        android:text="@string/csehodtext"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ntitle"
+                android:id="@+id/nbody"
+                android:singleLine="true"
+                android:layout_marginLeft="4dp"
+                android:lines="1"
+                android:ellipsize="end"
+                android:text="@string/aboutsitams"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="52dp"
+                android:src="@drawable/ic_today_black_24dp" />
+</RelativeLayout>
+</android.support.v7.widget.CardView>
+
+</RelativeLayout>

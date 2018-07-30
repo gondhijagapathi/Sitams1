@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/card_white">
+
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="10dp"
+    android:layout_centerHorizontal="true">
+                 <RelativeLayout
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content">
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:text="APP DEVELOPERS"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:id="@+id/devtext"
+                         android:layout_centerHorizontal="true" />
+                     <ImageView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/jaggu"
+                         android:layout_centerHorizontal="true"
+                         android:id="@+id/jagguimg"
+                         android:layout_below="@+id/devtext"
+                         android:layout_marginTop="20dp"/>
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_below="@+id/jagguimg"
+                         android:id="@+id/devname1"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:layout_centerHorizontal="true"
+                         android:text="Jagapathi (jaggu)\n    8374704797"
+                          />
+                     <ImageView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:src="@drawable/sasi"
+                         android:layout_centerHorizontal="true"
+                         android:id="@+id/sasiimg"
+                         android:layout_below="@+id/devname1"
+                         android:layout_marginTop="20dp"/>
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_below="@+id/sasiimg"
+                         android:id="@+id/devname2"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:layout_centerHorizontal="true"
+                         android:text="Sasi kumar (Sasi)\n    9490819372"
+                         />
+                     <ImageView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:src="@drawable/chandra"
+                         android:layout_centerHorizontal="true"
+                         android:id="@+id/chanduimg"
+                         android:layout_below="@+id/devname2"
+                         android:layout_marginTop="20dp"/>
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_below="@+id/chanduimg"
+                         android:id="@+id/devname3"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:layout_centerHorizontal="true"
+                         android:text="Chandra Sekhar (chandu)\n            9573389809"
+                         />
+                     <ImageView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:src="@drawable/balaji"
+                         android:layout_centerHorizontal="true"
+                         android:id="@+id/balajiimg"
+                         android:layout_below="@+id/devname3"
+                         android:layout_marginTop="20dp"/>
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_below="@+id/balajiimg"
+                         android:id="@+id/devname4"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:layout_centerHorizontal="true"
+                         android:text="Balaji (balu)\n8179991512"
+                         />
+                     <TextView
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                         android:layout_below="@+id/devname4"
+                         android:textAppearance="?android:attr/textAppearanceMedium"
+                         android:layout_centerHorizontal="true"
+                         android:text="@string/abouttext"
+                         />
+
+
+                 </RelativeLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.jaggu.sitams.Aboutus2"
+    tools:showIn="@layout/activity_about_us">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/clggrade"
+        android:textColor="@color/red"
+        android:id="@+id/grade"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/aboutsitams"
+        android:id="@+id/textView"
+        android:layout_below="@+id/grade"
+        android:layout_marginTop="30dp" />
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/founderbutname"
+        android:id="@+id/chair"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/chairbutname"
+        android:id="@+id/chair2"
+        android:layout_below="@+id/chair"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/trustbutname"
+        android:id="@+id/trust"
+        android:layout_below="@+id/chair2"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/govbutname"
+        android:id="@+id/gov"
+        android:layout_below="@+id/trust"
+        android:layout_centerHorizontal="true"/>
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/princebutname"
+        android:id="@+id/prince"
+        android:layout_below="@+id/gov"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:text="@string/Aobuttext"
+        android:id="@+id/Ao"
+        android:layout_below="@+id/prince"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
